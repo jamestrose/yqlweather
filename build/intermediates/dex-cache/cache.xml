@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d8e6add6f0d922384b622686c0291cd9f61b710">
+        <dex dex="/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_864880a793ed07f7314f279e8d05e98945a6c959/classes.dex" />
+    </item>
+    <item
+        jar="/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8edea9516f326fc4590db8b7b5ef4dbf2156d75c">
+        <dex dex="/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_158a5586e6e5198f8850e5ac6b7b0038bf2cc47f/classes.dex" />
+    </item>
+
+</items>

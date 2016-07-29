@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/home/jrose/AndroidStudioProjects/YQLWeather/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/res/merged/debug/layout/singleitemview.xml",
+        "source": "/home/jrose/AndroidStudioProjects/YQLWeather/app/src/main/res/layout/singleitemview.xml"
+    },
+    {
+        "merged": "/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/res/merged/debug/layout/listview_main.xml",
+        "source": "/home/jrose/AndroidStudioProjects/YQLWeather/app/src/main/res/layout/listview_main.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/temp_image.png",
+        "source": "/home/jrose/AndroidStudioProjects/YQLWeather/app/src/main/res/drawable-hdpi/temp_image.png"
+    },
+    {
+        "merged": "/home/jrose/AndroidStudioProjects/YQLWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/jrose/AndroidStudioProjects/YQLWeather/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
